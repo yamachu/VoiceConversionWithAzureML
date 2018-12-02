@@ -1,0 +1,4 @@
+[submodule "gantts"]
+	path = gantts
+	url = git@github.com:yamachu/gantts.git
+	branch = demo/ja-corpus-vs
